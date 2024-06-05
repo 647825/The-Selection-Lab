@@ -26,6 +26,7 @@ This is a simple Todo List application built using Flask, SQLite, and Flask-Logi
 
    ```bash
    git clone https://github.com/647825/The-Selection-Lab.git
+   cd The-Selection-Lab
    cd todo-list-app
    ```
 
